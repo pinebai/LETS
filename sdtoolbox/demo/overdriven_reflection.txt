@@ -1,0 +1,20 @@
+# Reflection of Overdriven Detonation
+# Calculation run on 2018-01-02
+# Initial conditions
+# Temperature (K) 300.0
+# Pressure (Pa) 100000.0
+# Density (kg/m^3) 1.2426e+00
+# Initial species mole fractions: H2:0.31 N2O:0.69
+# Reaction mechanism: h2-n2o_highT.cti
+
+Variables = "detonation speed (m/s)", "detonation pressure (Pa)", "detonation volume (m3/kg)", "reflected shock pressure (Pa)", "reflected shock volume (m3/kg)"
+   2.10128e+03 	    2.58781e+06 	    4.39857e-01 	    6.41947e+06 	    2.02916e-01 
+   2.21802e+03 	    3.79727e+06 	    3.18031e-01 	    1.26883e+07 	    1.15617e-01 
+   2.33476e+03 	    4.57053e+06 	    2.73613e-01 	    1.74837e+07 	    8.97202e-02 
+   2.45150e+03 	    5.31258e+06 	    2.43026e-01 	    2.26054e+07 	    7.36948e-02 
+   2.56823e+03 	    6.05745e+06 	    2.19791e-01 	    2.82171e+07 	    6.25193e-02 
+   2.68497e+03 	    6.81741e+06 	    2.01277e-01 	    3.43898e+07 	    5.42454e-02 
+   2.80171e+03 	    7.59832e+06 	    1.86089e-01 	    4.11664e+07 	    4.78866e-02 
+   2.91845e+03 	    8.40334e+06 	    1.73379e-01 	    4.85756e+07 	    4.28714e-02 
+   3.03519e+03 	    9.23442e+06 	    1.62585e-01 	    5.66387e+07 	    3.88385e-02 
+   3.15192e+03 	    1.00928e+07 	    1.53314e-01 	    6.53709e+07 	    3.55463e-02 

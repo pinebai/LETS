@@ -1,0 +1,17 @@
+# Explosion Parameters
+# Computation done on 2018-01-02
+# Mechanism H2ChemMevel.cti
+# Initial Species in Mixture 
+# fuel H2
+# oxidizer O2
+# diluent N2
+# Initial conditions
+# Temperature (K) 300.0
+# Pressure (Pa) 101325.0
+
+Variables = "Equivalence Ratio","X fuel","X oxidizer","X diluent","CV Pressure","CV Temperature","HP expansion","HP soundspeed","CJ Speed","CJ Pressure ","CJ sound speed","vN Pressure ","Reflected Pressure","Reflected Speed","Plateau Pressure","Ind Length","Energy Length","Theta Effective"
+   4.20000e-01 	    1.50000e-01 	    1.78571e-01 	    6.71429e-01 	    5.62004e+05 	    1.79863e+03 	    4.54416e+00 	    7.67502e+02 	    1.52409e+03 	    1.07751e+06  	    8.91106e+02  	    1.96752e+06  	    2.51795e+06  	    6.76605e+02  	    4.07441e+05 	    3.34942e-02 	    1.99748e-04 	    3.32947e+01
+   8.47119e-01 	    2.62500e-01 	    1.54937e-01 	    5.82563e-01 	    7.79513e+05 	    2.63393e+03 	    6.51597e+00 	    9.50477e+02 	    1.90307e+03 	    1.51430e+06  	    1.09228e+03  	    2.71010e+06  	    3.64787e+06  	    7.69813e+02  	    5.71433e+05 	    2.03895e-04 	    5.15894e-05 	    7.13412e+00
+   1.42800e+00 	    3.75000e-01 	    1.31303e-01 	    4.93697e-01 	    7.97742e+05 	    2.70225e+03 	    6.61168e+00 	    1.03774e+03 	    2.08022e+03 	    1.55244e+06  	    1.19193e+03  	    2.78747e+06  	    3.73951e+06  	    8.43637e+02  	    5.78154e+05 	    1.84083e-04 	    4.49054e-05 	    6.47220e+00
+   2.26390e+00 	    4.87500e-01 	    1.07668e-01 	    4.04832e-01 	    7.21657e+05 	    2.39018e+03 	    5.87852e+00 	    1.08367e+03 	    2.17061e+03 	    1.39917e+06  	    1.25082e+03  	    2.53835e+06  	    3.33709e+06  	    9.13918e+02  	    5.14788e+05 	    3.60229e-04 	    7.24710e-05 	    8.39806e+00
+   3.57000e+00 	    6.00000e-01 	    8.40336e-02 	    3.15966e-01 	    6.24375e+05 	    2.01770e+03 	    5.01907e+00 	    1.12690e+03 	    2.25104e+03 	    1.20314e+06  	    1.31012e+03  	    2.19712e+06  	    2.83307e+06  	    9.86897e+02  	    4.49050e+05 	    1.52459e-03 	    1.47788e-04 	    1.88763e+01

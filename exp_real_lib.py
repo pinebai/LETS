@@ -512,10 +512,10 @@ def boundary_layer(preShockGas,postShockGas,ushock,length):
     hr_hw=hr_he0*he0_hw
     b=hr_hw-1
     ch=hr_hw-he0_hw
-    print(['b',b])
-    print(['ch',ch])
-    print('***Edit Tracker***')
-    print([Pr, r0, Z])
+    #print(['b',b])
+    #print(['ch',ch])
+    #print('***Edit Tracker***')
+    #print([Pr, r0, Z])
     
     
     return Re_lm
